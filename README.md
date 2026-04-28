@@ -1,21 +1,21 @@
 # Software Engineering Labs Portfolio
 
 ## Overview
-This repository contains all the work completed during the Software Engineering course. It includes UML diagrams and documentation developed across different labs and the final SRS document.
+This repository contains all the work completed during the Software Engineering course. It includes UML diagrams and documentation developed across different labs and the final SRS document. It also includes a small project applying Test Driven Development (TDD) to an e-commerce system.
 
 ## Repository Structure
 
-- **Lab2_UseCase_Diagrams**
-  - Contains use case diagrams showing how users interact with different systems.
-
-- **Lab3_Class_Diagrams**
-  - Includes class diagrams representing the structure of different systems.
-
-- **Lab4_Behavioral_Diagrams**
-  - Contains behavioral diagrams such as sequence, activity, and state diagrams.
+- **Labs**
+  - **Lab2_UseCase_Diagrams**
+    - Contains use case diagrams showing how users interact with different systems.
+  - **Lab3_Class_Diagrams**
+    - Includes class diagrams representing the structure of different systems.
+  - **Lab4_Behavioral_Diagrams**
+    - Contains behavioral diagrams such as sequence, activity, and state diagrams.
 
 - **Project**
   - Contains additional project-related materials developed during the course.
+  - Includes a TDD-based implementation of an e-commerce system (Shopping Cart and Checkout).
 
 - **SRS**
   - Contains the Software Requirements Specification document for the e-commerce system.
