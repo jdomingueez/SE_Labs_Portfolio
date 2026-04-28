@@ -1,0 +1,4 @@
+ecommerce\PaymentService.class
+ecommerce\CheckoutService.class
+ecommerce\ShoppingCart.class
+ecommerce\Product.class
